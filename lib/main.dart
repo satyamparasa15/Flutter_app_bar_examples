@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: new ThemeData(),
-      home: YoutubeAppBar(),
+      home: MessengerAppBar(),
       debugShowCheckedModeBanner: false,
     );
   }
